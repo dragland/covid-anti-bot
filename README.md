@@ -6,8 +6,10 @@ Python bot to search for available COVID-19 vaccines -- NYC 2021!
 aggregated
 - https://vaccinefinder.nyc.gov/locations
 - https://www.vaccinespotter.org/
+- https://www.turbovax.info/
 
 pharmacy
+- CVS: https://www.cvs.com/vaccine/intake/store/cvd-store-select/first-dose-select
 - CVS: https://twitter.com/nycshotslots/status/1376877006000906246
 - RiteAid: https://www.riteaid.com/pharmacy/apt-scheduler
 
